@@ -66,7 +66,7 @@ Visual Output:
 
 ---
 
-## Timeline (June 10–30)
+## Timeline 
 
 - Week 1: Baseline kernels (matmul, conv2d), profiler logging
 - Week 2: Bayesian tuner loop, FlashAttention + LayerNorm integration
